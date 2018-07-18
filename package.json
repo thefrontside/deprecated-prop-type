@@ -1,6 +1,6 @@
 {
   "name": "deprecated-prop-type",
-  "version": "1.0.0-beta1",
+  "version": "1.0.0",
   "description": "React Prop Type to mark a prop as deprecated",
   "main": "dist/deprecated.cjs.js",
   "module": "dist/deprecated.esm.js",
