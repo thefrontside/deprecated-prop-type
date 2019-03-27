@@ -1,6 +1,6 @@
 # deprecated-prop-type
 
-`deprectated` prop type communicates to the developer that the marked prop should not be used. 
+`deprecated` prop type communicates to the developer that the marked prop should not be used. 
 
 ## Installation
 
@@ -9,7 +9,7 @@ yarn add deprecated-prop-type
 
 # 
 
-npm --save deprecated-prop-type
+npm i deprecated-prop-type
 ```
 
 ## Usage
