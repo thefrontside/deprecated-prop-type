@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/thefrontside/deprecated-prop-type#readme",
   "devDependencies": {
-    "@babel/core": "7.0.0-beta.54",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
     "babel-core": "^7.0.0-0",
-    "babel-jest": "23.4.0",
-    "@babel/preset-env": "7.0.0-beta.54",
-    "jest": "^23.4.1",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
     "prop-types": "^15.6.2",
     "rollup": "^0.60.0"
   },
